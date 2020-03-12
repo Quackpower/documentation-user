@@ -530,10 +530,10 @@ As most companies have internal controls to verify that the vendor bill is relat
 valid document,  an automatic validation can be set in :menuselection:`Accounting --> Settings --> 
 Argentinian Localization --> Validate document in the AFIP`, considering the following levels: 
 
-- **Not available:** The verification is not done (this is the default value).
-- **Available:**  The verification  is done, in case the number is not valid 
+- **Not available**: The verification is not done (this is the default value).
+- **Available**: The verification  is done, in case the number is not valid 
   it only raises a warning but it allows you to post the vendor bill. 
-- **Required:** The verification  is done and it doesn't allow the user to 
+- **Required**: The verification  is done and it doesn't allow the user to 
   post the vendor bill if the document number is not valid.
 
 .. image:: media/argentina_edi_16.png
